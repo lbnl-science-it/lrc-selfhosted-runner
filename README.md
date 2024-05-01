@@ -8,6 +8,6 @@ Usage:
 2. Start the runner script from terminal: `actions-runner/run.sh`
 3. Push code to target repo, the runner script should detect the push and trigger the action
 
-For details on the runner configuration, see `.workflows`.
+For details on the runner configuration (yaml files), see `.github/workflows`.
 
 Need help? Email scienceit@lbl.gov
